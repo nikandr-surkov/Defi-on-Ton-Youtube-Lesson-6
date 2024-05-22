@@ -1,26 +1,7 @@
-# CompositeTypes
+# 💻 Building DeFi on TON | Episode 06
+**Tact Map, Struct, Message Composite Types**
 
-## Project structure
+Welcome to the sixth episode of the "Building DeFi on TON" series! In this tutorial, we cover the Tact composite types Map, Struct, and Message, and how to use them in your smart contracts on the TON blockchain.
 
--   `contracts` - source code of all the smart contracts of the project and their dependencies.
--   `wrappers` - wrapper classes (implementing `Contract` from ton-core) for the contracts, including any [de]serialization primitives and compilation functions.
--   `tests` - tests for the contracts.
--   `scripts` - scripts used by the project, mainly the deployment scripts.
-
-## How to use
-
-### Build
-
-`npx blueprint build` or `yarn blueprint build`
-
-### Test
-
-`npx blueprint test` or `yarn blueprint test`
-
-### Deploy or run another script
-
-`npx blueprint run` or `yarn blueprint run`
-
-### Add a new contract
-
-`npx blueprint create ContractName` or `yarn blueprint create ContractName`
+## 📺 YouTube Video
+Watch the full video tutorial here: [Building DeFi on TON | 06](https://www.youtube.com/watch?v=JORPIemPpa4)
